@@ -8,7 +8,7 @@ Repository solutions for the [Advent of Code 2024](https://adventofcode.com/2024
 
 ## 📜 What is Advent of Code?
 
-Advent of Code (AoC) is a series of small programming puzzles for a variety of skill sets and skill levels. They are great for learning, coding practice, and getting into the holiday spirit.
+Advent of Code (AoC) is a series of small programming puzzles — great for learning, coding practice, and getting into the holiday spirit.
 
 
 
@@ -16,6 +16,6 @@ Advent of Code (AoC) is a series of small programming puzzles for a variety of s
 
 - **Languages Used:** JavaScript
 - **Structure:** Each day's solution is organized in its own directory:
-  - `/day1/`
-  - `/day2/`
+  - `/day01/`
+  - `/day02/`
   - and so on...
